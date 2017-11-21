@@ -1,7 +1,7 @@
 ---
 title: 【Hexo搭建独立博客教程】
 date: 2017-11-15 20:58:03
-tags:
+tags: Hexo
 categories: 博客搭建
 ---
 
