@@ -1,5 +1,5 @@
 ---
-title: 【Hexo搭建独立博客教程】
+title: Hexo搭建独立博客教程
 date: 2017-11-15 20:58:03
 tags: Hexo
 categories: Hexo

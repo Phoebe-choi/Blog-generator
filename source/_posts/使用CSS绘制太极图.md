@@ -1,5 +1,5 @@
 ---
-title: 如何使用CSS绘制太极图
+title: 使用CSS绘制太极图
 date: 2017-11-25 16:57:55
 tags: CSS
 categories: CSS

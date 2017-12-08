@@ -1,5 +1,5 @@
 ---
-title: 如何预览Github上的页面
+title: 预览Github上的页面
 date: 2017-11-26 11:18:32
 tags: Github
 categories: Github
